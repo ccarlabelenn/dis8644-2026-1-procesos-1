@@ -61,11 +61,11 @@ Los días martes y viernes de 8:30am a 12:50pm.
 | 11b              | 05-29 vie  | trabajo en proyecto-02                               |                    |
 | 12a              | 06-02 mar  | trabajo en proyecto-02                               |                    |
 | 12b              | 06-05 vie  | entrega proyecto-02                                  |                    |
-| 13a              | 06-09 mar  |                                                      |                    |
-| 13b              | 06-12 vie  |                                                      |                    |
-| 14a              | 06-16 mar  |                                                      |                    |
+| 13a              | 06-09 mar  | diseño de carcasas                                   |                    |
+| 13b              | 06-12 vie  | diseño de manuales técnicos                          |                    |
+| 14a              | 06-16 mar  | trabajo en proyecto-03                               |                    |
 | 14b              | 06-19 vie  | entrega proyecto-03                                  |                    |
-| 15a              | 06-23 mar  | circuitos con motores                                |                    |
+| 15a              | 06-23 mar  | soldadura y montaje de circuitos                     |                    |
 | 15b              | 06-26 vie  | soldadura y montaje de circuitos                     |                    |
 | 16a              | 06-30 mar  | semana exclusiva de trabajo en talleres              |                    |
 | 16b              | 07-03 vie  | semana exclusiva de trabajo en talleres              |                    |
@@ -74,3 +74,4 @@ Los días martes y viernes de 8:30am a 12:50pm.
 ## Bibliografía
 
 - Flusser, Vilém, Hacia una filosofía de la fotografía, 1983, disponible en <https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>.
+- Ono, Yoko, disponible en inglés en <https://monoskop.org/images/6/64/Ono_Yoko_Grapefruit_A_Book_of_Instructions_and_Drawings_2000.pdf> y en español <https://monoskop.org/images/8/83/Ono_Yoko_Pomelo_Un_libro_de_instrucciones_de_Yoko_Ono.pdf>.
