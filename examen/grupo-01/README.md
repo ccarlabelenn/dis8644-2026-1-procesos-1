@@ -31,14 +31,45 @@ nombre de sistema/instrumento construido por medio de módulos
 principio de funcionamiento de cada una, qué tipo de señal entrega a la salida, qué recibe
 lista de materiales con costos. Incluir tiempo de soldadura
 
+Nuestro sintetizador está formado de 4 modulos:
 
-### Placas armadas
+> ## **maincra (Piezo/entrada)**
+> 
+> *un microfono de contacto que detecta vibraciónes, manda señales a un amplificador e inversor de señales. estos convierten la corriente la cual entra a un reloj interno que lo camba a pasos para que un sequenciador pueda funcionar.*
+>
+> ## **nyan cat (Sequenciador)**
+>
+> *un sequenciador de 8 pasos (y dos fases) que permite la conexión de multiples osciladores.*
+>
+> ## **comando estelar (Oscilador)**
+>
+> *esta placa utiliza 2 chip para general oscilaciónes que alteran a traves de potenciómetros que permiten cambiar tanto la frecuencia como la modulación del sonido.*
+>
+> ## **parla (Amplificador/Salida)**
+>
+> *es un amplificador de señal que permite escuchar las oscilaciónes del modulo anterior con mayor volumen.*
+> 
+
+----------------
+
+### placas armadas (fotos)
 
 
 - Maincra
 - Registro de desplazamiento estático (Nyan cat)
 - Comando estelar
   
+----------------
+
+### procesos
+
+![test](./imagenes/test-render-1.png)
+
+> *para tener un flujo de trabajo más ordenado pusimos todos los conmponentes necesarios para armar una placa de lado.*
+>
+> *soldamos los componentes por tamaño (de más pequeño a más grande) y cables para los que van montados en la carcasa. al tener todo soldado en la placa se empezó a armar la cubierta de acrílico con los separadores, pusimos los potenciómetros, entradas/salidas de audio y switch conectados con los cables.* 
+
+----------------
 
   ### BOM PCB MAINCRA
 
@@ -127,7 +158,9 @@ Soldado 6 Horas
 decisiones materiales y formales de la carcasa
 inspiración y referentes (con cita)
 
-Carcasas individuales para cada PCB, se busca celebrar el diseño de las mismas mediante la transparencia del acrilico, rompiendo la caja negra e invitando a la apreciación integra de cada PCB y sus distintos componentes
+> *escogimos trabajar con acrilico ya que eramos familiares con el material. es fácil de trabajar por su compatibilidad con el corte laser que nos permitía cortar varias carcasas, grabar y lograr un buen oficio. el material es firme, perfecto para lo que teniamos en mente, además es economico.*
+>
+> *una cualidad del acrilico que utilizamos es la transparencia. buscamos celebrar el diseño de las PCB a traves de la transparencia de este, rompiendo la caja negra e invitando a la apreciación integra de cada placa y sus distintos componentes.*
 
 ## composición
 partitura e interpretación
@@ -135,6 +168,10 @@ detallar operación de la partitura, como se creó, cuales fueron los referentes
 
 
 - Referentes
+
+- https://commons.wikimedia.org/wiki/File:Game-Boy-Color-Purple.jpg?uselang=es#Licencia
+- https://cl.nothing.tech/products/cmf-phone-1?Colour=Orange&Capacity=8%2B128GB
+- https://www.korg.com/cl/products/synthesizers/microkorg_crystal/
 
  
 - Simbología
