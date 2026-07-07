@@ -230,13 +230,65 @@ La fabricación de la carcasa fue un proceso tan iterativo como el desarrollo el
 
 ![resultado carcasa](./imagenes/carcasa.png)
 
-## Composición
+---
 
-### Partitura 1
+## Partitura 1
 
-----------------
+Esta no tiene pentagramas, no tiene corcheas, no tiene nada que te haga sentir mal por no saber solfeo. Es una partitura para dos criaturas electrónicas que nunca han tomado clases de música y están muy bien así.
 
-#### Referentes partitura 1 
+La obra dura 24 horas y está pensada para ser tocada una vez al día, todos los días. Su lógica es biológica: Barry Benson es estrictamente diurna, sale al amanecer y vuelve a la colmena al anochecer. Lub-dub nunca para, pero su ritmo cambia según lo que ocurre afuera. Uno marca el tiempo del mundo exterior. El otro responde.
+
+### Cómo leer la partitura:
+
+Cada potenciómetro tiene una flor con 6 pétalos. El pétalo marcado con una línea es el pétalo 1 y corresponde al mínimo. Desde ahí se cuentan en sentido horario. El pétalo 6 es el máximo. Cada módulo tiene tres flores:
+
+- **Flor alta** — controla la velocidad.
+- **Flor media** — controla el carácter del sonido.
+- **Flor pequeña** — controla el volumen.
+
+#### 08:00 – 12:00
+
+Barry despierta. Sale despacio, todavía fría, explorando. Lub-dub siente el movimiento y empieza a activarse. El jardín abre los ojos.
+
+| Módulo |  Velocidad |  Carácter | Volumen |
+|--------|-------------|------------|-----------|
+| Barry Benson | pétalo 4 | pétalo 3 | pétalo 2 |
+| Lub-dub | pétalo 4 | pétalo 3 | pétalo 2 |
+
+#### 12:01 – 16:00
+
+Barry está en su punto máximo. Recorre el jardín con urgencia, el zumbido llena el espacio. Lub-dub acompaña ese ritmo, late con la energía del mediodía.
+
+| Módulo |  Velocidad | Carácter | Volumen |
+|--------|-------------|------------|-----------|
+| Barry Benson | pétalo 5 | pétalo 5 | pétalo 5 |
+| Lub-dub | pétalo 5 | pétalo 4 | pétalo 4 |
+
+#### 16:01 – 20:00
+
+Barry empieza a volver. El zumbido se hace más lento, más grave, más pesado. Lub-dub lo sigue: el cuerpo sabe que el día termina antes de que anochezca.
+
+| Módulo | Velocidad |  Carácter | Volumen |
+|--------|-------------|------------|-----------|
+| Barry Benson | pétalo 2 | pétalo 4 | pétalo 4 |
+|  Lub-dub | pétalo 2 | pétalo 3 | pétalo 3 |
+
+#### 20:01 – 07:59
+
+Barry no existe. Las abejas no vuelan de noche. Lub-dub sigue, porque los corazones no saben lo que es el descanso. Late solo, en silencio, sosteniendo algo que nadie más escucha.
+
+| Módulo | Velocidad | Carácter | Volumen |
+|--------|-------------|------------|-----------|
+|  Barry Benson | pétalo 1 | pétalo 1 | pétalo 1 |
+| Lub-dub | pétalo 1 | pétalo 2 | pétalo 2 |
+
+#### Notas de interpretación
+
+- Las transiciones entre actos no son abruptas. Las flores se giran despacio, como quien no quiere que nadie se dé cuenta de que algo cambió.
+- Los pétalos son un punto de partida, no una ley. Si al girar una flor suena horrible, gírala hasta que suene bien y anótalo. La partitura es un ser vivo.
+- El silencio de 20:01 a 07:59 no es silencio total: Lub-dub sigue latiendo. Siempre sigue latiendo.
+
+### Referentes partitura 1 
 
 La primera partitura toma como referencia dos obras fundamentales del arte conceptual y la música experimental: **Pomelo** (1964) de **Yoko Ono** y **Pendulum Music** (1968) de **Steve Reich**.
 
@@ -246,24 +298,22 @@ En ambos referentes, la partitura deja de ser un sistema para representar músic
 
 ![partitura 1 referencias](./imagenes/partitura-1-referencias.png)
 
-### Partitura 2
+## Partitura 2
 
 ![partitura 2](./imagenes/partitura-2-1.jpeg)
 
-#### Referentes partitura 2 
+### Referentes partitura 2 
 
 Para el desarrollo de las partituras 02 de Biofonía se tomaron como referencia distintos ejemplos de *notación o partituras gráfica*, entendiendo la partitura como una representación visual del sonido más que como un sistema tradicional basado en pentagramas. En particular, las partituras de **Anestis Logothetis** inspiraron el uso de líneas, gestos y formas libres para representar cualidades sonoras, mientras que **Artikulation (1970)**, la partitura de escucha desarrollada por **Rainer Wehinger** para la obra homónima de György Ligeti, sirvió como referente por su manera de traducir sonidos electrónicos en un lenguaje visual mediante colores, recorridos y símbolos. Ambos ejemplos demuestran que la música puede comunicarse a través de recursos gráficos, permitiendo que la imagen exprese ritmo, intensidad y comportamiento del sonido sin depender de la notación musical convencional.
 
 ![partitura 2 referencias](./imagenes/partitura-2-referencias.png)
 
-#### Desarrollo partitura 2
+### Desarrollo partitura 2
 
 Antes de comenzar a dibujar la partitura, fue necesario definir un lenguaje visual para cada uno de los módulos del sintetizador. La idea era que cada placa pudiera identificarse no solo por el sonido que produce, sino también por una representación gráfica propia.
 
 - **Barry Benson**, representado en color amarillo (🟡), utiliza las líneas curvas e irregulares que comúnmente se emplean para ilustrar de forma caricaturesca el recorrido de una abeja en vuelo.
 - **Lub-dub**, representado en color rojo (🔴), utiliza como referencia el trazado de un electrocardiograma, evocando visualmente el pulso y los latidos del corazón.
-
-![partitura 2 referencias](./imagenes/partitura-2-referencias-2.png)
 
 Una vez definido este lenguaje gráfico, la partitura fue desarrollada digitalmente en **Procreate**. Para facilitar su lectura e interpretación, se estableció una estructura basada en dos ejes:
 
